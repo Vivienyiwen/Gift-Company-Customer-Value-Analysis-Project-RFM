@@ -1,4 +1,4 @@
-# RFM
+# Gift Company Customer Value Analysis Project / RFM
 
 Project Source:
 https://www.kaggle.com/carrie1/ecommerce-data
